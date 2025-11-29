@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Vendas Pro",
+  "description": "Sistema completo de gestão de vendas, estoque e financeiro com suporte a parcelamento e perfis de acesso.",
+  "requestFramePermissions": []
+}
